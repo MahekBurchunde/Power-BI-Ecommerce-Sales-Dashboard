@@ -3,8 +3,8 @@
 
 
 
-### Dashboard Look : (![Power BI Ecommerce Sales Dashboard](https://github.com/MahekBurchunde/Power-BI-Ecommerce-Sales-Dashboard/assets/167778191/2ea9f952-c790-41a9-be0f-463356eef23e)
-)
+### Dashboard Look : ![Power BI Ecommerce Sales Dashboard](https://github.com/MahekBurchunde/Power-BI-Ecommerce-Sales-Dashboard/assets/167778191/2ea9f952-c790-41a9-be0f-463356eef23e)
+
 
 
 ## Problem Statement
